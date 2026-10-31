@@ -1,0 +1,16 @@
+Image,Filter,Sharpness,Entropy,Edge Density,Intensity Variance
+i1.png,Gaussian,72.76,7.495,0.0648,4840.7
+i1.png,Butterworth,49.7,7.499,0.046,4877.57
+i1.png,High Boost,191.88,7.587,0.2516,5096.48
+i2.png,Gaussian,219.17,7.614,0.5398,2696.6
+i2.png,Butterworth,106.95,7.6,0.3505,2654.32
+i2.png,High Boost,756.41,7.778,0.7175,3480.52
+i3.png,Gaussian,38.91,7.152,0.0977,2200.92
+i3.png,Butterworth,24.8,7.166,0.0665,2212.54
+i3.png,High Boost,119.18,7.317,0.1874,2559.61
+i4.png,Gaussian,19.53,6.796,0.0097,981.91
+i4.png,Butterworth,14.78,6.815,0.0097,995.22
+i4.png,High Boost,52.28,6.868,0.0252,1044.54
+i5.png,Gaussian,14.19,7.104,0.0179,2680.92
+i5.png,Butterworth,12.73,7.124,0.0264,2700.43
+i5.png,High Boost,33.87,7.155,0.0342,2730.03
